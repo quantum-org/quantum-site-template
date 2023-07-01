@@ -1,0 +1,27 @@
+{
+    "bandname":"BandName",
+    "frontpage_yt": "https://www.youtube-nocookie.com/embed/nWEMcaTIzAM",
+    "shows": true,
+    "merch": {"enabled": false, "link": "https://deneb-merch.myspreadshop.fr/"},
+
+    "music": {
+        "enabled": true,
+        "bandcamp": {"enabled": true, "link": "https://bandcamp.com/EmbeddedPlayer/album=581149464/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/"},
+        "spotify": {"enabled": true, "link": "https://open.spotify.com/embed/album/0NiaWGyoFJYHHP6A0znJW8?theme=0"},
+        "youtube": {"enabled": true, "link": "https://www.youtube.com/embed/oUqkE-hmnxg"},
+        "amazonmusic": {"enabled": true, "link": "https://music.amazon.fr/embed/B093HKRXNR/?id=KZoblcB7y0&marketplaceId=A13V1IB3VIYZZH&musicTerritory=FR"},
+        "applemusic": {"enabled": true, "link": "https://embed.music.apple.com/mx/album/first-launch-single/1564747714"}
+    },
+
+    "social_networks": {
+        "bandcamp" : {"enabled": true, "link": "https://deneb-band.bandcamp.com/"},
+        "youtube" : {"enabled": true, "link": "https://www.youtube.com/channel/UCe_NgFr4A2uUqwU8SbHcRQw"},
+        "spotify" : {"enabled": true, "link": "https://open.spotify.com/artist/51d8XWhTORvXdM3X1w614A?si=4bu9BbNgRmmleTwG-5dE-A&dl_branch=1&nd=1"},
+        "facebook" : {"enabled": true, "link": "https://www.facebook.com/bandDeneb"},
+        "instagram": {"enabled": true, "link": "https://www.instagram.com/deneb_fr/"}
+    },
+    "contact" : {
+        "mail": "contact[at]band-name.com",
+        "social_contact": {"facebook": true, "instagram": true}
+    }
+}

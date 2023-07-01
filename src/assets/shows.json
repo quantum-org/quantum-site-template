@@ -1,0 +1,20 @@
+[
+    {
+        "date": "NOV 19 FRI",
+        "name": "Epic Linup @ 8:30pm",
+        "place": "Some really cool bar",
+        "link": "https://www.example.com"
+    },
+    {
+        "date": "NOV 27 MON",
+        "name": " XXXX @ 8:00pm",
+        "place": "Some really cool bar",
+        "link": "https://www.example.com"
+    },
+    {
+        "date": "DEC 07 TUE",
+        "name": "Epic Linup 2 @ 8:30pm",
+        "place": "Some really cool bar",
+        "link": "https://www.example.com"
+    }
+]
